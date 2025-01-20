@@ -1,0 +1,67 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'london-tourism-guide 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'london-tourism-guide 1.0-SNAPSHOT API'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Park.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/HistoricalSite.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Attraction.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/LondonTourismGuide.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Restaurant.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/TouristAttractionFactory.java'
+'/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Nightlife.java'
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Park.java = 1737362313404
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/HistoricalSite.java = 1737362313450
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Attraction.java = 1737362313390
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/LondonTourismGuide.java = 1737368618717
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Restaurant.java = 1737362313421
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/TouristAttractionFactory.java = 1737370933430
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java/Nightlife.java = 1737362313467
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/src/main/java = 1737361620528
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/constant-values.html = 1737372632655
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/member-search-index.zip = 1737372632681
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/overview-tree.html = 1737372632668
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/index.html = 1737372632697
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/package-search-index.js = 1737372632675
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/jquery-ui.overrides.css = 1737372632729
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/package-search-index.zip = 1737372632679
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/package-use.html = 1737372632665
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/type-search-index.zip = 1737372632680
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/index-all.html = 1737372632682
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/allpackages-index.html = 1737372632687
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/deprecated-list.html = 1737372632693
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/member-search-index.js = 1737372632681
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/allclasses.html = 1737372632695
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/script.js = 1737372632709
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/stylesheet.css = 1737372632708
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/help-doc.html = 1737372632705
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/package-summary.html = 1737372632646
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/package-tree.html = 1737372632652
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/element-list = 1737372632641
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/LondonTourismGuide.html = 1737372632640
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/allclasses-index.html = 1737372632686
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/type-search-index.js = 1737372632680
+/Users/harrisali/NetBeansProjects/LondonTourismGuide/target/reports/apidocs/search.js = 1737372632711
