@@ -4,7 +4,7 @@ abstract class Attraction {
     String description; // Description of the attraction
     String location;    // Location of the attraction
 
-    // Constructor to initialize attraction details
+    // Constructor to initialise attraction details
     public Attraction(String name, String description, String location) {
         this.name = name;
         this.description = description;

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-// Factory class to create different types of attractions
+// Factory class to create different types of attractions 
 class TouristAttractionFactory {
 
     // Create historical sites

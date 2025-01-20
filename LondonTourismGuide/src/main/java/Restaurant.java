@@ -1,7 +1,7 @@
 // Restaurant class, a specific type of Attraction
 class Restaurant extends Attraction {
 
-    // Constructor to initialize a Restaurant
+    // Constructor to initialise a Restaurant
     public Restaurant(String name, String description, String location) {
         super(name, description, location); // Call parent class constructor
     }

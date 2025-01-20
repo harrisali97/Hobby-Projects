@@ -1,12 +1,12 @@
 // Nightlife class, a specific type of Attraction
 class Nightlife extends Attraction {
 
-    // Constructor to initialize a Nightlife
+    // Constructor to initialise a Nightlife object
     public Nightlife(String name, String description, String location) {
         super(name, description, location); // Call parent class constructor
     }
 
-    // Implement the abstract displayInfo method to show details of the nightlife
+    // Implement the abstract displayInfo method to show details of the nightlife object
     @Override
     public void displayInfo() {
         System.out.println("Nightlife: " + name);
