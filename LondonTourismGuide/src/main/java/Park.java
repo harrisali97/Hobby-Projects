@@ -1,7 +1,7 @@
 // Park class, a specific type of Attraction
 class Park extends Attraction {
 
-    // Constructor to initialize a Park
+    // Constructor to initialise a Park
     public Park(String name, String description, String location) {
         super(name, description, location); // Call parent class constructor
     }
