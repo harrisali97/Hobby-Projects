@@ -1,7 +1,7 @@
 // Historical Site class, a specific type of Attraction
 class HistoricalSite extends Attraction {
 
-    // Constructor to initialize a HistoricalSite
+    // Constructor to initialise a HistoricalSite
     public HistoricalSite(String name, String description, String location) {
         super(name, description, location); // Call parent class constructor
     }
